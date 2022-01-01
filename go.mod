@@ -3,7 +3,6 @@ module github.com/dubbogo/parser
 go 1.15
 
 require (
-	github.com/apache/skywalking-eyes v0.2.0 // indirect
 	github.com/cznic/golex v0.0.0-20181122101858-9c343928389c // indirect
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548
 	github.com/cznic/parser v0.0.0-20181122101858-d773202d5b1f
